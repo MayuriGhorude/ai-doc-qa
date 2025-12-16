@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Vector DB
+vector_store/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# PDFs (optional – if large)
+data/sample_pdfs/
